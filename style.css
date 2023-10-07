@@ -981,8 +981,8 @@ con flex 1, se divide el espacio en partes iguales */
         border: ridge 5px #024594
     }
 
-    .bg-2 {
-    width: 20rem;
+    .bg-2, .bg-productos {
+    width: 95%;
     }
 
     .nosotros-text-primario,
@@ -1125,16 +1125,16 @@ con flex 1, se divide el espacio en partes iguales */
     }
 
     .bg {
-        width: 21.25rem;
+        width: 95%;
         right: 0;
     }
 
     .bg-2{
-        width: 24.25rem;
+        width: 95%;
     }
 
     .bg-productos {
-        width: 25.25rem;
+        width: 95%;
         right: 0;
     }
 
